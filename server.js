@@ -8,7 +8,7 @@ try {
 
 // === Config Variables ===
 const listen = '/l';
-const call = ['https://invoiza.onrender.com/l', 'https://caller1.onrender.com/l'];
+const call = ['https://invoiza.onrender.com/l', 'https://caller2xyxyxy.onrender.com/l'];
 
 // === Initialize Express App ===
 const app = express();
