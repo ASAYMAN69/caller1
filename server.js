@@ -8,7 +8,7 @@ try {
 
 // === Config Variables ===
 const listen = '/l';
-const call = ['https://invoiza.onrender.com/l', 'https://caller2xyxyxy.onrender.com/l', 'https://transportation-disable-thinking-tape.trycloudflare.com'];
+const call = ['https://invoiza.onrender.com/l', 'https://caller2xyxyxy.onrender.com/l'];
 
 // === Initialize Express App ===
 const app = express();
